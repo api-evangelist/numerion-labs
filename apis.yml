@@ -1,22 +1,68 @@
 aid: numerion-labs
 name: Numerion Labs
-description: Numerion Labs is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Numerion Labs is an AI-driven drug discovery company building an "AI
+  superplatform" that explores chemical space to uncover novel, drug-like
+  molecules using machine learning. The company pairs computational
+  drug-hunting with its own development programs, applying generative and
+  predictive models to surface previously unseen chemical matter and advance
+  therapeutic candidates. Surfaced as a Y Combinator portfolio company and
+  added to the API Evangelist network, Numerion Labs currently publishes a
+  marketing and corporate web presence (platform overview, pipeline programs,
+  team, news/blog, and contact) but does not expose a public developer API,
+  documentation, SDKs, or other machine-readable API surface at this time.
 url: https://raw.githubusercontent.com/api-evangelist/numerion-labs/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://numerionlabs.ai/wp-content/uploads/2025/11/default-share-1200x630-1.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: no-public-api-surface
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Drug Discovery
+- Artificial Intelligence
+- Machine Learning
+- Biotech
+- Pharmaceutical
+- Life Sciences
+- Y Combinator
 apis: []
+common:
+- type: Website
+  url: https://numerionlabs.ai/
+- type: Blog
+  url: https://blog.numerionlabs.ai
+- type: PrivacyPolicy
+  url: https://numerionlabs.ai/privacy-policy/
+- type: Support
+  url: https://numerionlabs.ai/contact-us/
+- type: About
+  url: https://numerionlabs.ai/team/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/numerion-labs
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
