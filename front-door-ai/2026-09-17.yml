@@ -1,0 +1,27 @@
+# Front Door AI Index — numerion-labs — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: numerion-labs
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: numerionlabs.ai
+  final_host: numerionlabs.ai
+  ownership: own
+  owner: numerion-labs
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 40.4
+  words: 198
+  tiers:
+    agentic: 0
+    core: 8
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 4
+    machine learning: 3
+    ML: 1
