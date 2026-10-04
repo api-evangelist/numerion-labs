@@ -48,8 +48,8 @@ tags:
 - Company
 - Drug Discovery
 - Artificial Intelligence
-- Machine-Learning
-- Biotech
+- Machine Learning
+- Biotechnology
 - Pharmaceuticals
 - Life Sciences
 - Y Combinator
@@ -62,6 +62,7 @@ tags_raw:
 - Pharmaceutical
 - Life Sciences
 - Y Combinator
+- Machine-Learning
 apis: []
 common:
 - type: Website
